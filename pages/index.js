@@ -1,5 +1,5 @@
 function Home() {
-   return ('index.html') 
+  return window.location.href  = "index.html" 
 }
 
 export default Home
