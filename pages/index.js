@@ -1,5 +1,5 @@
 function Home() {
-   return index.html 
+   return ('index.html') 
 }
 
 export default Home
