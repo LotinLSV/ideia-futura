@@ -18,6 +18,13 @@
 ![Alt text](image.png)
 
 1 - progresso Não iníciado = 0%
+
 2 - progresso Em andamento = 50%
+
 3 - progresso Conclúido = 100%
+
+<!-- Observações -->
+
+## O Fluxo precisa ser escrito sempre do término para o início
+
 
