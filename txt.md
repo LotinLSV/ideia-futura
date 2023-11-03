@@ -25,6 +25,15 @@
 
 <!-- Observações -->
 
-## O Fluxo precisa ser escrito sempre do término para o início
+### O Fluxo precisa ser escrito sempre do término para o início
 
+## Colunas Project
+
+1 - "Finish" escreve na término previsto
+
+2 - "ActualFinish" escreve na término real
+
+lembrando que se caso houver uma tarefa com término real e for reescrever o término previsto teremos um problema porque ele vai ser reagendado
+
+obs²: Não pode haver uma tarefa com um término anterior ao início do projeto (O project não aceita o reagendamento de início do projeto neste caso)
 
